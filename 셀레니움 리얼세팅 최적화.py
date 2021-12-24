@@ -30,3 +30,4 @@ except:
     driver = webdriver.Chrome(f'./{chrome_ver}/chromedriver.exe', options=option)
 driver.implicitly_wait(10)
 
+# 음?
